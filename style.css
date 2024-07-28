@@ -190,6 +190,10 @@ main{
     right: 18%;
     position: absolute;
 }
+.tv img{
+  width: 450px;
+  position: absolute;
+}
 .main2{
     height: 400px;
     width: 100%;
@@ -287,13 +291,20 @@ main{
     padding-top: 10px;
 }
 .tv2{
+  width: 470px;
+    height: 350px;
     position: relative;
 }
 .tv2 video{
+  width: 290px;
     position: absolute;
     right: 19.5%;
     bottom:42%;
 
+}
+.tv2 img{
+  width:468px;
+  position: absolute;
 }
 .main4{
     height: 400px;
