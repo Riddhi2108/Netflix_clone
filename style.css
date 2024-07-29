@@ -427,7 +427,7 @@ footer{
 #ques{
     width: 268px;
     height: 20px;
-    margin-left: 11%;
+    margin-left: 140px;
     color: rgba(255, 255, 255, 0.7);
 }
 .foot{
@@ -461,13 +461,13 @@ ul a{
     border: 0.1px solid gray;
     border-radius: 4px;
     height: 30px;
-    margin-left: 11%;
+    margin-left: 140px;
     margin-top: 20px;
     
 
 }
 .netflix_ind{
-    margin-left: 11%;
+    margin-left: 140px;
     margin-top: 20px;
     color: rgba(255, 255, 255, 0.7)
 }
