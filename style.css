@@ -371,6 +371,9 @@ main{
     margin-bottom: 7px;
     border: none;
 }
+.main5 button:hover {
+    background-color:rgb(129, 125, 125) ;
+}
 .main5 p{
     width: 884px;
     height: 30px;
